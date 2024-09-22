@@ -1,0 +1,1 @@
+# plugins-advanced-tinymce-configuration
